@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Stats</string>
+
+    <string name="scorers_title">Scorers</string>
+    <string name="teams_title">Teams</string>
+
+    <string name="teams_name">Name</string>
+    <string name="teams_won">Won</string>
+    <string name="teams_drawn">Drawn</string>
+    <string name="teams_lost">Lost</string>
+    <string name="teams_points">Points</string>
+
+</resources>
