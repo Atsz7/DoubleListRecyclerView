@@ -40,6 +40,11 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    /**
+     * This method is used to create and return a dummy
+     * list of scorers.
+     * @return [List].
+     */
     private fun getScorers() : List<Scorer> {
 
         return ArrayList<Scorer>().apply {
@@ -49,6 +54,11 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    /**
+     * This method is used to create and return a dummy
+     * list of teams.
+     * @return [List].
+     */
     private fun getTeams() : List<Team> {
 
         return ArrayList<Team>().apply {
